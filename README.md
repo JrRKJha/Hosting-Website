@@ -1,4 +1,4 @@
-<h1 align="center">Free Hosting Website Template</h1>
+<h1 align="center">Free Hosting Website Template Demo</h1>
 
 ## :eyes:  Preview
 ![unknown](https://cdn.discordapp.com/attachments/1023575939826847784/1030876069668073512/unknown.png)
